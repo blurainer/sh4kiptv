@@ -35,15 +35,16 @@ http://192.168.99.110:7088/udp/239.45.0.20:5140
 http://192.168.99.110:7088/udp/239.45.0.10:5140
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV16奥林匹克4K
 http://192.168.99.110:7088/udp/239.45.0.12:5140
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV16奥林匹克4K50FPS
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV16奥林匹克4K-HDR
+####http://192.168.99.110:7088/udp/233.18.204.114:5140
 http://192.168.99.110:7088/udp/233.18.204.215:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17农村农业
 http://192.168.99.110:7088/udp/239.45.3.52:5140
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4k超高清
 http://192.168.99.110:7088/udp/239.45.0.55:5140
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4k超高清50FPS
-http://192.168.99.110:7088/udp/233.18.204.204:5140
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4k超高清2
+####EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4k超高清50FPS
+####http://192.168.99.110:7088/udp/233.18.204.204:5140
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K超高清-HDR
 http://192.168.99.110:7088/udp/239.45.3.123:5140
 #EXTINF:-1 tvg-id="6569" tvg-name="CCTV文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视",CCTV文化精品
 http://192.168.99.110:7088/udp/239.45.0.53:5140
@@ -249,4 +250,4 @@ http://192.168.99.110:7088/udp/239.45.1.109:5140
 http://192.168.99.110:7088/udp/233.18.204.201:5140
 
 #EXTINF:-1 tvg-id="1" tvg-name="test" tvg-logo="" group-title="测试",测试
-http://192.168.99.110:7088/udp/239.45.3.123:5140
+http://192.168.99.110:7088/udp/239.45.0.11:5140
